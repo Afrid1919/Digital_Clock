@@ -2,8 +2,10 @@
 
 This project is a simple digital clock implemented using React.
 
-## Table of Contents
+![Digitalclock](https://github.com/Afrid1919/Digital_Clock/assets/132122733/079dc82e-2ec2-4e62-a97f-c87b4afce553)
 
+
+## Table of Contents
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
