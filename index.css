@@ -1,0 +1,38 @@
+body {
+  background-image: url(assets/sun.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover ;
+  background-attachment: fixed;
+  margin: 0;
+
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+
+}
+h1{
+    height: 50px;
+    text-align:center;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    padding: 20px 10px;
+    color: rgb(221, 252, 45);
+}
+.clock-container{
+    backdrop-filter: blur(5px);
+    width: 100vw;
+    padding: 10px 0;
+
+}
+.clock{
+  color: white;
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: 3px 3px 5px black;
+
+}
